@@ -2,7 +2,13 @@
 Cardiovascular Risk Prediction
 The dataset is from an ongoing cardiovascular study on residents of the town of Framingham,Massachusetts. The classification goal is to predict whether the patient has a 10-year risk of future coronary heart disease (CHD). The dataset provides the patient's information. It includes over 4,000 records and 15 attributes.
 
-![heart-disease](https://user-images.githubusercontent.com/86402845/163319625-5084bb8e-91df-4c04-80a8-d2f4f9ef9543.jpg)
+<p align="center">
+  <img 
+    width="750"
+    height="400"
+    src = "https://user-images.githubusercontent.com/86402845/208915355-6a0c7635-b682-4589-99f6-32cef2695c23.gif">
+</p>
+
 **Attribute Information:**<br><br>
 **1. Sex:** male or female("M" or "F")
 
@@ -33,7 +39,7 @@ The dataset is from an ongoing cardiovascular study on residents of the town of 
 **14.Glucose:** glucose level
 
 **15.TenYearCHD:** 10-year risk of coronary heart disease CHD(binary: “1”, means “Yes”, “0” means “No”
-
+****
 **Conclusion :**
 
 **1.** In the given dataset we observe that Coronary heart disease increases from age 51 to 67 then decreases.
